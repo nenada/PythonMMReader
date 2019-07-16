@@ -7,7 +7,6 @@ import numpy as np
 import sys
 import json
 import platform
-import dask.array as da
 
 
 class _MagellanMultipageTiffReader:
